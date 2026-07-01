@@ -19,7 +19,20 @@ Fix sleep option (powermenu)
 
 # Known Issues
 No consistent themes between GTK applications
-Swaync animation goes the wrong way
+~~Swaync animation goes the wrong way~~
 Swaync is *slow*
-Powermenu has an unused option (Logout)
+~~Powermenu has an unused option (Logout)~~
 Hyprlock color doesn't change
+Delay between startup and wallpaper loading
+
+# Plan
+Laptop/Desktop Options
+
+## File Structure
+
+.config
+	swaync
+		*config.json*
+	waybar
+		*config.jsonc*
+	
