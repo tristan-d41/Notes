@@ -19,13 +19,14 @@ Create separate config files for laptop and desktop setups (Hyprland config, way
 Fix swaync delay
 Fix delay between startup and wallpaper loading
 Fix Hyprlock color change
+~~Fix Hyprlock display option~~
 Set up GTK themes
 # Known Issues
 No consistent themes between GTK applications
-
-
-
-
+Not input field in Hyprlock
+delay between startup and wallpaper loading
+swaync delay
+Hyprlock color not changing
 # Plan
 Laptop/Desktop Options
 
