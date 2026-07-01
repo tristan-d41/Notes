@@ -14,7 +14,7 @@ Laptop/Desktop Option
 ***Setup Laptop/Desktop Options (Setup)***
 ~~Fix swaync animation (Hyprland config)~~
 ***Fix swaync power button (Swaync config)***
-Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)
+~~Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)~~
 ~~Fix sleep option (powermenu)~~
 Fix swaync delay
 Fix delay between startup and wallpaper loading
