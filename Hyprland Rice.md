@@ -1,10 +1,10 @@
+Highlight - In progress
+Strikethrough - Complete
+Bold & Italics - On hold/Abandoned
+
 Low power mode
 - no transparency
 - Disable dGPU (If possible)
-
-- ~~Hide waybar~~
-- ~~No gaps~~
-- ~~No rounding~~
 Performance mode?
 # Installer
 Laptop/Desktop Option
@@ -15,8 +15,8 @@ Bug Fixes
 	~~Fix swaync animation (Hyprland config)~~
 	~~Fix swaync power button (Swaync config)~~
 	~~Fix sleep option (powermenu)~~
-	**Fix swaync delay**
-	**Fix delay between startup and wallpaper loading**
+	***Fix swaync delay***
+	***Fix delay between startup and wallpaper loading***
 	~~Fix Hyprlock color change~~
 	~~Fix Hyprlock display option~~
 Improvements (Back End)
@@ -27,7 +27,7 @@ New Features
 	~~Setup Laptop/Desktop Options (Setup)~~
 	Set up GTK themes
 	Select a cursor
-	~~Make 'Fullscreen mode'~~ ('Focus Mode implemented')
+	~~Make 'Fullscreen mode' (Focus Mode)~~
 	Low power mode
 	Monique?
 	
@@ -96,3 +96,11 @@ else if installtype = 2:
 fullscreen mode
 + need to figure out how to do multiple overrides with one keybind
 + also need to close waybar
+
+low power mode
++ activated from swaync
++ battery indicator change color
++ no blur
++ no transparency
++ lower refresh rate
++ lower cpu power
