@@ -19,7 +19,7 @@ Laptop/Desktop Option
 ~~Fix sleep option (powermenu)~~
 Fix swaync delay
 Fix delay between startup and wallpaper loading
-Fix Hyprlock color change
+~~Fix Hyprlock color change~~
 ~~Fix Hyprlock display option~~
 Set up GTK themes
 # Known Issues
