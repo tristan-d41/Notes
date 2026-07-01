@@ -81,3 +81,7 @@ else if installtype = 2:
 	if desktop files exist:
 		backup and copy desktop files to .config
 ```
+
+fullscreen mode
++ need to figure out how to do multiple overrides with one keybind
++ also need to close waybar
