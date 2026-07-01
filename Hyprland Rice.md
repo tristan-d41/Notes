@@ -1,10 +1,11 @@
 Low power mode
 - no transparency
 - Disable dGPU (If possible)
-Fullscreen mode
-- Hide waybar
-- No gaps
-- No rounding
+
+~~Fullscreen mod~~
+- ~~Hide waybar~~
+- ~~No gaps~~
+- ~~No rounding~~
 Performance mode?
 # Installer
 Laptop/Desktop Option
