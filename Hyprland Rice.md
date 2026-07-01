@@ -2,7 +2,6 @@ Low power mode
 - no transparency
 - Disable dGPU (If possible)
 
-~~Fullscreen mod~~
 - ~~Hide waybar~~
 - ~~No gaps~~
 - ~~No rounding~~
@@ -11,17 +10,28 @@ Performance mode?
 Laptop/Desktop Option
 
 # To Do
-~~Swap to waybar-git (installer)~~
-~~Setup Laptop/Desktop Options (Setup)~~
-~~Fix swaync animation (Hyprland config)~~
-~~Fix swaync power button (Swaync config)~~
-~~Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)~~
-~~Fix sleep option (powermenu)~~
-Fix swaync delay
-Fix delay between startup and wallpaper loading
-~~Fix Hyprlock color change~~
-~~Fix Hyprlock display option~~
-Set up GTK themes
+Bug Fixes
+	~~Swap to waybar-git (installer)~~
+	~~Fix swaync animation (Hyprland config)~~
+	~~Fix swaync power button (Swaync config)~~
+	~~Fix sleep option (powermenu)~~
+	**Fix swaync delay**
+	**Fix delay between startup and wallpaper loading**
+	~~Fix Hyprlock color change~~
+	~~Fix Hyprlock display option~~
+Improvements (Back End)
+	~~Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)~~
+	==Clean up hyprland.lua==
+	Break down hyprland.lua into modules
+New Features
+	~~Setup Laptop/Desktop Options (Setup)~~
+	Set up GTK themes
+	Select a cursor
+	~~Make 'Fullscreen mode'~~ ('Focus Mode implemented')
+	Low power mode
+	Monique?
+	
+
 # Known Issues
 No consistent themes between GTK applications
 Not input field in Hyprlock
