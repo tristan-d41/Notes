@@ -32,9 +32,51 @@ Laptop/Desktop Options
 
 ## File Structure
 
+From:
 .config
 	swaync
 		*config.json*
+		style.css
 	waybar
 		*config.jsonc*
-	
+		style.css
+
+To:
+.config
+laptop
+	swaync
+		*config.json*
+		style.css
+	waybar
+		*config.jsonc*
+		style.css
+desktop
+		swaync
+			*config.json*
+			style.css
+		waybar
+			*config.jsonc*
+			style.css
+
+## Code
+From:
+```
+# .config/* → ~/.config/*
+if [ -d "$REPO_DIR/.config" ]; then
+	for item in "$REPO_DIR/.config"/*; do
+		name=$(basename "$item")
+		backup_and_copy "$item" "$HOME/.config/$name"
+	done
+else
+	warn ".config directory not found in repository environment — skipping."
+fi
+```
+
+```
+if instaltype = 1:
+	if laptop files exist:
+		backup and copy laptop files to .config
+else if installtype = 2:
+	if desktop files exist:
+		backup and copy desktop files to .config
+```
