@@ -9,6 +9,9 @@ Performance mode?
 # Installer
 Laptop/Desktop Option
 
+## Investigate
+Cachy splash screen - only started showing up on new install
+
 # To Do
 Bug Fixes
 	~~Swap to waybar-git (installer)~~
