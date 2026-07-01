@@ -12,18 +12,19 @@ Laptop/Desktop Option
 # To Do
 ~~Swap to waybar-git (installer)~~
 ***Setup Laptop/Desktop Options (Setup)***
-Fix swaync animation (Hyprland config)
-Fix swaync power button (Swaync config)
+~~Fix swaync animation (Hyprland config)~~
+***Fix swaync power button (Swaync config)***
 Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)
-Fix sleep option (powermenu)
-
+~~Fix sleep option (powermenu)~~
+Fix swaync delay
+Fix delay between startup and wallpaper loading
+Fix Hyprlock color change
+Set up GTK themes
 # Known Issues
 No consistent themes between GTK applications
-~~Swaync animation goes the wrong way~~
-Swaync is *slow*
-~~Powermenu has an unused option (Logout)~~
-Hyprlock color doesn't change
-Delay between startup and wallpaper loading
+
+
+
 
 # Plan
 Laptop/Desktop Options
