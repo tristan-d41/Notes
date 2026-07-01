@@ -11,9 +11,9 @@ Laptop/Desktop Option
 
 # To Do
 ~~Swap to waybar-git (installer)~~
-***Setup Laptop/Desktop Options (Setup)***
+~~Setup Laptop/Desktop Options (Setup)~~
 ~~Fix swaync animation (Hyprland config)~~
-***Fix swaync power button (Swaync config)***
+~~Fix swaync power button (Swaync config)~~
 ~~Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)~~
 ~~Fix sleep option (powermenu)~~
 Fix swaync delay
