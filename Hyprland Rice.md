@@ -72,6 +72,7 @@ else
 fi
 ```
 
+To:
 ```
 if instaltype = 1:
 	if laptop files exist:
