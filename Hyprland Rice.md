@@ -38,6 +38,7 @@ New Features
 	Touchpad gestures
 	Monique?
 	Taskbar
+	Fastfetch maybe (What's the point of fastfetch)
 	
 
 # Known Issues
