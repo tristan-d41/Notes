@@ -26,12 +26,14 @@ Improvements (Back End)
 	~~Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)~~
 	==Clean up hyprland.lua==
 	Break down hyprland.lua into modules
+	Switch to non-trial version of KH Interference
 New Features
 	~~Setup Laptop/Desktop Options (Setup)~~
 	Set up GTK themes
-	Select a cursor
+	~~Select a cursor~~ (I mean I guess???)
 	~~Make 'Fullscreen mode' (Focus Mode)~~
 	Low power mode
+	Touchpad gestures
 	Monique?
 	
 
