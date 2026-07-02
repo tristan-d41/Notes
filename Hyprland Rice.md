@@ -19,7 +19,7 @@ Bug Fixes
 	~~Fix swaync power button (Swaync config)~~
 	~~Fix sleep option (powermenu)~~
 	***Fix swaync delay***
-	***Fix delay between startup and wallpaper loading***
+	~~Fix delay between startup and wallpaper loading~~
 	~~Fix Hyprlock color change~~
 	~~Fix Hyprlock display option~~
 Improvements (Back End)
