@@ -10,7 +10,7 @@ Performance mode?
 Laptop/Desktop Option
 
 ## Investigate
-Cachy splash screen - only started showing up on new install
+Cachy splash screen - only started showing up on new install (THEY ADDED PLYMOUTH WHYYYYYYYYYYYYYY)
 
 # To Do
 Bug Fixes
@@ -24,17 +24,20 @@ Bug Fixes
 	~~Fix Hyprlock display option~~
 Improvements (Back End)
 	~~Create separate config files for laptop and desktop setups (Hyprland config, waybar, swaync)~~
-	==Clean up hyprland.lua==
-	Break down hyprland.lua into modules
-	Switch to non-trial version of KH Interference
+	~~Clean up hyprland.lua~~
+	~~Break down hyprland.lua into modules~~
+	~~Switch to non-trial version of KH Interference~~
 New Features
 	~~Setup Laptop/Desktop Options (Setup)~~
-	Set up GTK themes
-	~~Select a cursor~~ (I mean I guess???)
+	Set up GTK themes (Dark preferred)
+	Select a cursor (some kind of update to cachy added noctalia)
 	~~Make 'Fullscreen mode' (Focus Mode)~~
 	Low power mode
+	Dark Mode/Light Mode (Swaync menu)
+	Workspace view (One day...)
 	Touchpad gestures
 	Monique?
+	Taskbar
 	
 
 # Known Issues
