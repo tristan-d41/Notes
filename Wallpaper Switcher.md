@@ -3,4 +3,5 @@
 - Dark/Light toggle
 - Preview image & UI elements
 - Animations
+- Color Selection
 - Wallpaper names?
