@@ -1,0 +1,6 @@
+- Fix menu Design
+- Change preview size
+- Dark/Light toggle
+- Preview image & UI elements
+- Animations
+- Wallpaper names?
