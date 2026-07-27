@@ -18,7 +18,7 @@ Bug Fixes
 	~~Fix swaync animation (Hyprland config)~~
 	~~Fix swaync power button (Swaync config)~~
 	~~Fix sleep option (powermenu)~~
-	***Fix swaync delay***
+	***Fix swaync delay*** (replace with quickshell)
 	~~Fix delay between startup and wallpaper loading~~
 	~~Fix Hyprlock color change~~
 	~~Fix Hyprlock display option~~
@@ -38,7 +38,7 @@ New Features
 	Touchpad gestures
 	Monique?
 	Taskbar
-	Fastfetch maybe (What's the point of fastfetch)
+	Fastfetch maybe (What's the point of fastfetch) (It's based)
 	
 
 # Known Issues
