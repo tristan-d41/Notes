@@ -31,8 +31,9 @@ New Features
 	~~Setup Laptop/Desktop Options (Setup)~~
 	Set up GTK themes (Dark preferred)
 	Select a cursor (some kind of update to cachy added noctalia)
+	Quick settings (Like iOS)
 	~~Make 'Fullscreen mode' (Focus Mode)~~
-	Low power mode
+	~~Low power mode~~
 	Dark Mode/Light Mode (Swaync menu)
 	Workspace view (One day...)
 	Touchpad gestures
@@ -43,10 +44,10 @@ New Features
 
 # Known Issues
 No consistent themes between GTK applications
-Not input field in Hyprlock
-delay between startup and wallpaper loading
+~~No input field in Hyprlock~~
+~~delay between startup and wallpaper loading~~
 swaync delay
-Hyprlock color not changing
+~~Hyprlock color not changing~~
 # Plan
 Laptop/Desktop Options
 
