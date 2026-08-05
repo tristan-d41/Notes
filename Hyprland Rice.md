@@ -12,6 +12,8 @@ Laptop/Desktop Option
 ## Investigate
 Cachy splash screen - only started showing up on new install (THEY ADDED PLYMOUTH WHYYYYYYYYYYYYYY)
 
+
+**asdflkjhasdlkjfh**
 # To Do
 Bug Fixes
 	~~Swap to waybar-git (installer)~~
