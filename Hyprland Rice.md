@@ -41,14 +41,15 @@ New Features
 	Touchpad gestures
 	Monique?
 	Taskbar
-	Fastfetch maybe (What's the point of fastfetch) (It's based)
+	Fastfetch maybe (What's the point of fastfetch)
 	
+
 
 # Known Issues
 No consistent themes between GTK applications
 ~~No input field in Hyprlock~~
 ~~delay between startup and wallpaper loading~~
-swaync delay
+~~swaync delay~~
 ~~Hyprlock color not changing~~
 # Plan
 Laptop/Desktop Options
@@ -116,3 +117,11 @@ low power mode
 + no transparency
 + lower refresh rate
 + lower cpu power
+
+Clean up all UI (UI is inconsistent)
+
+reasons:
+No text in quick settings, but a bunch of text everywhere else
+Menu sizes are inconsistent
+
+CA
