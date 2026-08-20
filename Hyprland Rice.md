@@ -123,5 +123,7 @@ Clean up all UI (UI is inconsistent)
 reasons:
 No text in quick settings, but a bunch of text everywhere else
 Menu sizes are inconsistent
+Need a proper color scheme
+
 
 CA
