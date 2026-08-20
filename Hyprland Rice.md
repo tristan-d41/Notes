@@ -20,7 +20,7 @@ Bug Fixes
 	~~Fix swaync animation (Hyprland config)~~
 	~~Fix swaync power button (Swaync config)~~
 	~~Fix sleep option (powermenu)~~
-	***Fix swaync delay*** (replace with quickshell)
+	~~~***Fix swaync delay*** (replace with quickshell)~~~
 	~~Fix delay between startup and wallpaper loading~~
 	~~Fix Hyprlock color change~~
 	~~Fix Hyprlock display option~~
@@ -33,7 +33,7 @@ New Features
 	~~Setup Laptop/Desktop Options (Setup)~~
 	Set up GTK themes (Dark preferred)
 	Select a cursor (some kind of update to cachy added noctalia)
-	Quick settings (Like iOS)
+	~~~Quick settings (Like iOS)~~~
 	~~Make 'Fullscreen mode' (Focus Mode)~~
 	~~Low power mode~~
 	Dark Mode/Light Mode (Swaync menu)
@@ -106,17 +106,6 @@ else if installtype = 2:
 		backup and copy desktop files to .config
 ```
 
-fullscreen mode
-+ need to figure out how to do multiple overrides with one keybind
-+ also need to close waybar
-
-low power mode
-+ activated from swaync
-+ battery indicator change color
-+ no blur
-+ no transparency
-+ lower refresh rate
-+ lower cpu power
 
 Clean up all UI (UI is inconsistent)
 
